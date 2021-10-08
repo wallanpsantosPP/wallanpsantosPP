@@ -47,7 +47,7 @@ I'm a Java Backend Developer at PicPay ☕ | Web Developer (React & Next.js) �
 
 <div>
   <a href="https://github.com/wallanpsantosPP">
-  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=wallanpsantosPP&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em"   align="left" src="https://github-readme-stats.vercel.app/api?username=wallanpsantosPP&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
   
 ### 🤝🏻 &nbsp;Connect with Me
