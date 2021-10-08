@@ -52,6 +52,9 @@ I'm a Java Backend Developer at PicPay ☕ | Web Developer (React & Next.js) �
   
 ### 🤝🏻 &nbsp;Connect with Me
 
-  <a href="https://www.linkedin.com/in/wallanpsantos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> &nbsp;&nbsp; <a href="https://www.instagram.com/wallanpsantos/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  &nbsp;&nbsp; <a href="https://twitter.com/WallanPereira9/" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%2300A7E7?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>   &nbsp;&nbsp; <a href="https://github.com/wallanpsantos/" target="_blank"><img src="https://img.shields.io/badge/-Github-%2300A7E7?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>   
+  <a href="https://www.linkedin.com/in/wallanpsantos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  &nbsp;&nbsp; <a href="https://www.instagram.com/wallanpsantos/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+  <!-- -->
+  &nbsp;&nbsp; <a href="https://twitter.com/WallanPereira9/" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%2300A7E7?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>   
+  &nbsp;&nbsp; <a href="https://github.com/wallanpsantos/" target="_blank"><img src="https://img.shields.io/badge/-Github-%23000000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>   
     
